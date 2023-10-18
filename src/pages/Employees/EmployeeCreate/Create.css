@@ -1,0 +1,10 @@
+#rect1{
+    background-color: hsl(150, 100%, 50%);
+}
+.rect1{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 15rem;
+    height: 100px;
+    background-color: light;
+}
